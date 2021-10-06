@@ -1,2 +1,2 @@
 This is chapter1.
-This is a sample text.
+This is a sample text and beginning of sqample repository.
